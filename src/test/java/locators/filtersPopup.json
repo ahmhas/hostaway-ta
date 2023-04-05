@@ -1,0 +1,12 @@
+{
+  "beachFront": "//span[@class='sc-htmcrh emRwHY' and contains(text(), 'Beach front')]",
+  "swimmingPool": "//span[@class='sc-htmcrh emRwHY' and contains(text(), 'Swimming pool')]",
+  "freeWiFi": "//span[@class='sc-htmcrh emRwHY' and contains(text(), 'Free WiFi')]",
+  "kitchen": "//span[@class='sc-htmcrh emRwHY' and contains(text(), 'Kitchen')]",
+  "airConditioning": "//span[@class='sc-htmcrh emRwHY' and contains(text(), 'Air conditioning')]",
+  "washingMachine": "//span[@class='sc-htmcrh emRwHY' and contains(text(), 'Washing Machine')]",
+  "petsAllowed": "//span[@class='sc-htmcrh emRwHY' and contains(text(), 'Pets allowed')]",
+  "hotTub": "//span[@class='sc-htmcrh emRwHY' and contains(text(), 'Hot tub')]",
+  "streetParking": "//span[@class='sc-htmcrh emRwHY' and contains(text(), 'Street parking')]",
+  "suitableForChildren": "//span[@class='sc-htmcrh emRwHY' and contains(text(), 'Suitable for children')]"
+}
